@@ -5,7 +5,7 @@ from segun_part import *
 def main():
     # Ejemplo de la clase Libro
     print("Ejemplo de la clase Libro:")
-    libro = Libro("Cien Años de Soledad", "Gabriel García Márquez", 1967)
+    libro = Libro("Cien Años", "Gabriel García", 1990)
     print(libro.obtener_informacion())
     print()
     
